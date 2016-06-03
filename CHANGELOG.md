@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.7](https://github.com/justinma246/k3po/tree/1.0.7) (2016-06-03)
+[Full Changelog](https://github.com/justinma246/k3po/compare/3.0.0-alpha-34...1.0.7)
+
 ## [3.0.0-alpha-34](https://github.com/justinma246/k3po/tree/3.0.0-alpha-34) (2016-04-20)
 [Full Changelog](https://github.com/justinma246/k3po/compare/3.0.0-alpha-33...3.0.0-alpha-34)
 
