@@ -1,5 +1,8 @@
 # Change Log
 
+## [5.0.2](https://github.com/justinma246/k3po/tree/5.0.2) (2016-06-06)
+[Full Changelog](https://github.com/justinma246/k3po/compare/5.0.1...5.0.2)
+
 ## [5.0.1](https://github.com/justinma246/k3po/tree/5.0.1) (2016-06-06)
 [Full Changelog](https://github.com/justinma246/k3po/compare/5.0.0...5.0.1)
 
